@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Fondo de la pantalla -->
+    <color name="fondo">#F7F6FA</color>
+
+    <!-- Azules de la interfaz -->
+    <color name="azul_titulo">#2B41E0</color>
+    <color name="azul_foco">#3B4FE8</color>
+
+    <!-- Textos -->
+    <color name="texto_campo">#222222</color>
+    <color name="texto_hint">#4A4A4A</color>
+    <color name="texto_titulo_campo">#1A1A1A</color>
+
+    <!-- Bordes -->
+    <color name="borde_campo">#9E9E9E</color>
+</resources>
